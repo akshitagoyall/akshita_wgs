@@ -41,7 +41,7 @@ def inputted():
             ant=dict.antonym(word)
             print(ant)
     else:
-        print("SORRY")
+        print("SORRY TRY AGAIN LATER!")
 
-
+inputted()
 
